@@ -12,17 +12,19 @@
 
 ---
 
-### 👨🏻‍💻 &nbsp;About Me
+# 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;I'm currently a student at K23 Honors Program, FIT-HCMUS, pursuing a degree in Computer Science.
+
 🌱 &nbsp;I'm on track for studying and delving deeper into the field of AI, ML and Data Science. Also, I'm interested in exploring more about software development and engineering practices.
+
 🎮 &nbsp;In my free time, I enjoy playing sports (football, badminton, pickleball, volleyball, etc.), hitting the gym and keeping myself posted on the latest advancements in technology.
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+# 🛠 &nbsp;Tech Stack
 
 <!-- LANGUAGES -->
-#### 💻 Languages:
+## 💻 Languages:
 <table>
   <tr>
     <td><strong>Familiar with:</strong></td>
@@ -49,7 +51,7 @@
 
 
 <!-- FRAMEWORKS AND LIBRARIES -->
-#### 📚 Frameworks and Libraries:
+## 📚 Frameworks and Libraries:
 
 <table>
   <tr>
@@ -82,7 +84,7 @@
 
 
 <!-- TOOLS AND PLATFORMS -->
-#### 🔧 Tools and Platforms:
+## 🔧 Tools and Platforms:
 
 <table>
   <tr>
@@ -111,7 +113,7 @@
 
 
 <!-- DATABASES -->
-#### 🗄️ Databases:
+## 🗄️ Databases:
 
 <table>
   <tr>
@@ -136,7 +138,7 @@
 
 ---
 
-### :fire: My Stats :
+# :fire: My Stats :
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tbnguyen274&theme=dark&background=000000)](https://git.io/streak-stats)
 -->
