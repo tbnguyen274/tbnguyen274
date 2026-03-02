@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="120"/>
-
+  <br/><br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%7C+Backend+%26+Fullstack;Data+Science+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
@@ -179,16 +179,12 @@
 
 # :fire: My Stats :
 
-<<<<<<< HEAD
 <div align="center">
-=======
-[![Top Langs](https://github-readme-stats-ara3.vercel.app/api/top-langs/?username=tbnguyen274&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
->>>>>>> 3880c9cbc893c581f5fe208a5c8bb243bf3d71f0
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tbnguyen274&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbnguyen274&langs_count=8&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ara3.vercel.app/api/top-langs/?username=tbnguyen274&langs_count=8&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tbnguyen274&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-ara3.vercel.app/api?username=tbnguyen274&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
