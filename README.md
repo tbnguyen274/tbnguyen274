@@ -177,7 +177,7 @@
 
 ---
 
-# :fire: My Stats :
+# :fire: My Stats
 
 <div align="center">
 
