@@ -179,7 +179,11 @@
 
 # :fire: My Stats :
 
+<<<<<<< HEAD
 <div align="center">
+=======
+[![Top Langs](https://github-readme-stats-ara3.vercel.app/api/top-langs/?username=tbnguyen274&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+>>>>>>> 3880c9cbc893c581f5fe208a5c8bb243bf3d71f0
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tbnguyen274&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
