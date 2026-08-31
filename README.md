@@ -12,7 +12,7 @@
     <a style="display: inline-block; margin: 10px 0" href="https://www.linkedin.com/in/tbnguyen274/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a style="display: inline-block; margin: 10px 0" href="mailto:ryantbnguyen27425@gmail.com">
+    <a style="display: inline-block; margin: 10px 0" href="mailto:ntbao.tech@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </div>
@@ -31,6 +31,68 @@
 📊 &nbsp;Also exploring **System Design, Data Science & Machine Learning** to broaden my technical perspective and problem-solving skills.
 
 🎮 &nbsp;In my free time, I enjoy playing sports (football, badminton, pickleball, volleyball), hitting the gym, and keeping up with the latest in tech.
+
+---
+
+# 🏆 &nbsp;Featured Projects
+
+<table>
+  <tr>
+    <td width="35%">
+      <strong>💬 <a href="https://github.com/tbnguyen274/omnidesk">OmniDesk</a></strong><br/>
+      <sub><em>Viettel Digital Talent 2026</em></sub>
+    </td>
+    <td>
+      An <strong>Omnichannel Customer Support Platform</strong> for Facebook (Messenger, Comment) and Email, streamlining customer engagement, unified communication, and ticket management.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/BullMQ-CC0000?logo=redis&logoColor=white" alt="BullMQ"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/>
+      <img src="https://img.shields.io/badge/MinIO-C72C48?logo=minio&logoColor=white" alt="MinIO"/>
+      <br/><br/>
+      🔗 <a href="https://github.com/tbnguyen274/omnidesk"><strong>View GitHub Repository</strong></a>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="35%">
+      <strong>📋 <a href="https://github.com/tbnguyen274/planora-project-management">Planora</a></strong><br/>
+      <sub><em>School Project, Team Lead</em></sub>
+    </td>
+    <td>
+      An <strong>AI-powered project management system</strong> assisting Agile workflows with interactive Kanban boards, Scrum sprint tracking, and smart task automation.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel"/>
+      <br/><br/>
+      🔗 <a href="https://github.com/tbnguyen274/planora-project-management"><strong>View GitHub Repository</strong></a>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="35%">
+      <strong>📚 <a href="https://fit-hcmus-materials.vercel.app/">FIT-HCMUS Materials</a></strong><br/>
+      <sub><em>Academic Knowledge Hub</em></sub>
+    </td>
+    <td>
+      A curated <strong>learning repository</strong>, <strong>academic archive</strong>, and <strong>knowledge hub</strong> for Computer Science students at <strong>FIT - HCMUS</strong>.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="Vite"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel"/>
+      <br/><br/>
+      🌐 <a href="https://fit-hcmus-materials.vercel.app/"><strong>Visit Live Website</strong></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -118,6 +180,7 @@
       <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" alt="Amazon DynamoDB"/>
       <img src="https://img.shields.io/badge/Firebase-039BE5?logo=firebase&logoColor=fff" alt="Firebase"/>
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff" alt="Supabase"/>
+      <img src="https://img.shields.io/badge/MinIO-C72C48?logo=minio&logoColor=white" alt="MinIO"/>
       <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="AWS"/>
     </td>
   </tr>
