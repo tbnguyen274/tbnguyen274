@@ -283,7 +283,7 @@
     <img height="180em" src="https://github-readme-stats-ara3.vercel.app/api?username=tbnguyen274&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-ara3.vercel.app/api/top-langs/?username=tbnguyen274&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+    <img height="180em" src="https://github-readme-stats-ara3.vercel.app/api/top-langs/?username=tbnguyen274&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   </a>
   <br/><br/>
   <a href="https://git.io/streak-stats">
